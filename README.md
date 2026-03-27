@@ -7,3 +7,4 @@ Stop Button:-The stop button is used to pause the stopwatch and halt the time me
 Lap Button:-The lap button is used to record intermediate times while the stopwatch continues running.
 Reset Button:-The reset button is used to clear the stopwatch time and set it back to zero.
 
+
