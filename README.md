@@ -8,4 +8,8 @@ Lap Button:-The lap button is used to record intermediate times while the stopwa
 Reset Button:-The reset button is used to clear the stopwatch time and set it back to zero.
 
 <img width="1358" height="603" alt="image" src="https://github.com/user-attachments/assets/2eb8a053-2eb1-46a3-82db-a0af78773991" />
+<img width="1272" height="606" alt="image" src="https://github.com/user-attachments/assets/29cfb47f-5f89-4e88-bc3a-95e6895ed51a" />
+<img width="1275" height="604" alt="image" src="https://github.com/user-attachments/assets/d1d06974-2739-4720-8f42-3e2b96d4f777" />
+
+
 
