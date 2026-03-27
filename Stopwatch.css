@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +6,7 @@
   font-family: Arial, sans-serif;
 }
 
-/* Body styling */
+
 body {
   height: 100vh;
   display: flex;
@@ -15,7 +15,7 @@ body {
   background-color: rgb(39, 78, 39)
 }
 
-/* Container */
+
 .container {
   background: rgb(181, 218, 139);
   padding: 30px;
@@ -25,14 +25,14 @@ body {
   width: 500px;
 }
 
-/* Time display */
+
 label {
   font-size: 60px;
   font-weight: bold;
   color: #333;
 }
 
-/* Buttons */
+
 button {
   margin: 15px 10px;
   padding: 10px 15px;
@@ -43,7 +43,7 @@ button {
   transition: 0.3s;
 }
 
-/* Start button */
+
 #start {
   background-color: #28a745;
   color: white;
@@ -73,7 +73,7 @@ button {
   background-color: #471e22;
 }
 
-/* Lap list */
+
 #laps {
   margin-top: 15px;
   max-height: 150px;
@@ -82,7 +82,7 @@ button {
   padding-left: 10px;
 }
 
-/* Each lap */
+
 #laps li {
   background: #f1f1f1;
   margin: 5px 0;
