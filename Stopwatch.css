@@ -1,0 +1,92 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+/* Body styling */
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(39, 78, 39)
+}
+
+/* Container */
+.container {
+  background: rgb(181, 218, 139);
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  width: 500px;
+}
+
+/* Time display */
+label {
+  font-size: 60px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Buttons */
+button {
+  margin: 15px 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 19px;
+  cursor: pointer;
+  font-size: 25px;
+  transition: 0.3s;
+}
+
+/* Start button */
+#start {
+  background-color: #28a745;
+  color: white;
+}
+
+#start:hover {
+  background-color: #082e10;
+}
+
+/* Lap button */
+#Lap {
+  background-color: #007bff;
+  color: white;
+}
+
+#Lap:hover {
+  background-color: #1f3853;
+}
+
+/* Reset button */
+#reset {
+  background-color: #dc3545;
+  color: white;
+}
+
+#reset:hover {
+  background-color: #471e22;
+}
+
+/* Lap list */
+#laps {
+  margin-top: 15px;
+  max-height: 150px;
+  overflow-y: auto;
+  text-align: left;
+  padding-left: 10px;
+}
+
+/* Each lap */
+#laps li {
+  background: #f1f1f1;
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 5px;
+  font-size: 20px;
+}
